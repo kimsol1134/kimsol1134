@@ -120,13 +120,13 @@ I'm a **Data Scientist** with the unique perspective of an **8-year experienced 
 
 <div align="center">
 
-### 🏥 Medical AI Projects
-  
+  ### 🏥 Medical AI Projects
+  
 <a href="https://github.com/yeardreamMedical/medical-multimodal-rag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimsol1134&repo=project1&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeardreamMedical&repo=medical-multimodal-rag&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/kimsol1134/dodakim-mind-quiz-page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimsol1134&repo=project2&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimsol1134&repo=dodakim-mind-quiz-page&theme=tokyonight&hide_border=true" />
 </a>
 
 ### 📊 Data Science Competitions
