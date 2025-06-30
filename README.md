@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimsol1134&show_icons=true&locale=en" alt="kimsol1134" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimsol1134&" alt="kimsol1134" /></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kimsol1134&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
