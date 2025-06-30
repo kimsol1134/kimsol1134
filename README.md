@@ -125,7 +125,7 @@ I'm a **Data Scientist** with the unique perspective of an **8-year experienced 
 <a href="https://github.com/kimsol1134/project1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimsol1134&repo=project1&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/kimsol1134/project2">
+<a href="https://github.com/kimsol1134/dodakim-mind-quiz-page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimsol1134&repo=project2&theme=tokyonight&hide_border=true" />
 </a>
 
