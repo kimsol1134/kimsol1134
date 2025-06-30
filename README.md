@@ -122,7 +122,7 @@ I'm a **Data Scientist** with the unique perspective of an **8-year experienced 
 
 ### 🏥 Medical AI Projects
   
-<a href="https://github.com/kimsol1134/project1">
+<a href="https://github.com/yeardreamMedical/medical-multimodal-rag">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimsol1134&repo=project1&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/kimsol1134/dodakim-mind-quiz-page">
