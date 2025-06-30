@@ -14,7 +14,7 @@
   
   [![Blog](https://img.shields.io/badge/Blog-Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/kimsol1015)
   [![Email](https://img.shields.io/badge/Email-kimsol1134@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimsol1134@naver.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sol%20Kim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/솔-김-a42897318/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sol%20Kim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sol-kim-md-ds/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kimsol1134)
   
 </div>
@@ -145,7 +145,7 @@ I'm a **Data Scientist** with the unique perspective of an **8-year experienced 
 ## 📚 Latest Research & Publications
 
 ### 📄 Published Papers
-- **[2020]** "Pitfalls, Complications, and Necessity of Education about REBOA: A Single Regional Trauma Center Study" - *Journal of Trauma and Injury* (SCI, First Author)
+- **[2020]** "[Pitfalls, Complications, and Necessity of Education about REBOA: A Single Regional Trauma Center Study](https://www.jtraumainj.org/journal/view.php?doi=10.20408/jti.2020.0049)" - *Journal of Trauma and Injury* (SCI, First Author)
 
 ### 🎤 Conferences & Presentations
 - **[2025]** Year-Dream School Data Science Showcase - Team Project Leader
@@ -169,9 +169,9 @@ graph LR
 </div>
 
 ### 🎯 2025 Goals
-- [ ] Complete Year-Dream School Data Science Program
-- [ ] Contribute to open-source medical AI projects
-- [ ] Build production-ready healthcare ML models
+- [ ] 🚀 Take the first successful step as a solo developer and founder.
+- [ ] 🩺 Launch 'Medicube', a project generating medical problems with images via a multimodal LLM.
+- [ ] 🤗 Build and gather user feedback for 'Dodakim', an AI-based mental health platform for fathers.
 
 ---
 
