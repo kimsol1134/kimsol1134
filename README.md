@@ -107,7 +107,7 @@ I'm a **Data Scientist** with the unique perspective of an **8-year experienced 
 
 | 🎯 Achievement | 📅 Year | 🏢 Organization |
 |:---:|:---:|:---:|
-| **Best Resident Award** | 2023 | Wonju Severance Christian Hospital |
+| **Best Resident Award** | 2018 | Wonju Severance Christian Hospital |
 | **SCI Paper First Author** | 2022 | Journal of Trauma and Injury |
 | **Year-Dream School 5th** | 2025 | Data Science Program |
 | **Clinical Excellence** | 2017-2025 | 8 Years as Surgeon |
