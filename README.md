@@ -4,200 +4,91 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Surgeon+turned+Data+Scientist;8+Years+of+Clinical+Experience;Bridging+Medicine+and+AI;Saving+Lives+with+Code)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
+<a href="https://solkim.blog">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sol%20Kim&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Where%20Medical%20Expertise%20Meets%20Data%20Science&descAlignY=55&descAlign=50" alt="header" />
-</div>
+</a>
 
 <div align="center">
   
-  [![Blog](https://img.shields.io/badge/Blog-Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/kimsol1015)
-  [![Email](https://img.shields.io/badge/Email-kimsol1134@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimsol1134@naver.com)
+  [![Blog](https://img.shields.io/badge/Blog-solkim.blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://solkim.blog)
+  [![Email](https://img.shields.io/badge/Email-contact@solkim.blog-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@solkim.blog)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sol%20Kim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sol-kim-md-ds/)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kimsol1134)
+  [![Threads](https://img.shields.io/badge/Threads-@home_dad_sol-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@home_dad_sol)
   
+</div>
+
 </div>
 
 <br>
 
+## 🩺 About Me
+
+> **"Transforming clinical insights into data-driven solutions"**
+
+Hi, I'm **Sol Kim**. I spent **8 years as a surgeon**, handling critical cases and analyzing complex medical data in the OR. Now, I've traded my scalpel for Python to solve problems at scale with **AI and Data Science**.
+
+Currently, I am a **stay-at-home dad** to my daughter Yunseul, learning to code during her naps, and building applications that help people.
+
+- 🔭 **I’m currently working on**: [KidsFever](https://kidsfever.xyz) (Antipyretic Dose Calculator) & Medical RAG systems.
+- 🌱 **I’m currently learning**: LLM Application Development, Next.js, and Advanced Data Engineering.
+- 🏥 **Clinical Expertise**: Trauma Surgery, Critical Care, Emergency Medicine.
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kimsol1134&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/kimsol1134?label=Followers&style=for-the-badge&color=FF6B6B" alt="followers" />
+
+| **Category** | **Technologies** |
+| :---: | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
+| **Web Dev** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Data & AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
 </div>
 
 ---
 
-## 🎯 Mission Statement
+## 🚀 Featured Projects
 
-> **"Transforming clinical insights into data-driven solutions that save lives"**
+### 💊 [KidsFever (어린이 해열제 계산기)](https://kidsfever.xyz)
+> *A web application to help parents calculate the correct antipyretic dose for their children.*
+- **Problem**: Parents often struggle to calculate the correct dose of fever medication (Acetaminophen/Ibuprofen) for their kids.
+- **Solution**: A simple, mobile-friendly calculator that considers weight, age, and medication type.
+- **Tech**: Next.js, TypeScript, Tailwind CSS.
 
-<img align="right" alt="Medical AI" width="400" src="https://raw.githubusercontent.com/kimsol1134/kimsol1134/main/medical-ai.gif">
-
-### 🩺 Who Am I?
-
-I'm a **Data Scientist** with the unique perspective of an **8-year experienced Surgeon**. My journey from the operating room to the world of algorithms gives me an unparalleled understanding of both medical complexities and data science capabilities.
-
-### 🚀 What Makes Me Different?
-
-- **🏥 Deep Medical Domain Expertise**: 8+ years handling EMR, CT, MRI, and biosignal data in real clinical settings
-- **📊 Proven Research Excellence**: Published as first author in SCI-indexed 'Journal of Trauma and Injury'
-- **🏆 Award-Winning Performance**: Recognized as 'Best Resident' at Wonju Severance Christian Hospital
-- **💡 Bridge Between Worlds**: Uniquely positioned to translate clinical needs into AI solutions
+### 📝 [SolKim Blog](https://solkim.blog)
+> *My personal tech blog and journey log.*
+- **Content**: Documentation of my transition from medicine to tech, coding tutorials, and project retrospectives.
+- **Tech**: Next.js 14, Contentlayer, MDX.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ✍️ Latest Blog Posts
 
-<div align="center">
+<!-- blog_posts_start -->
+- [💊 아이 해열제 계산기 개발기 (Antipyretic Dose Calculator)](https://solkim.blog/projects/antipyretic-dose-calculator)
+- [♟️ Knight's Tour Game 개발기](https://solkim.blog/projects/knights-tour-game)
+- [🛠️ Mac에서 NVM 경로 문제 해결하기](https://solkim.blog/blog/fix-macos-nvm-path-issue-gui-apps)
+<!-- blog_posts_end -->
 
-### 💻 Programming & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📊 Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🤖 Machine Learning & Deep Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### 🏥 Medical Data & Imaging
-![DICOM](https://img.shields.io/badge/DICOM-00599C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg==)
-![HL7](https://img.shields.io/badge/HL7_FHIR-EB8B00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6Ii8+PC9zdmc+)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
+➡️ [Read more on my blog](https://solkim.blog)
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimsol1134&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsol1134&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kimsol1134&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsol1134&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=kimsol1134&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kimsol1134&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kimsol1134&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-## 🏆 Key Achievements
-
-<div align="center">
-
-| 🎯 Achievement | 📅 Year | 🏢 Organization |
-|:---:|:---:|:---:|
-| **Best Resident Award** | 2018 | Wonju Severance Christian Hospital |
-| **SCI Paper First Author** | 2022 | Journal of Trauma and Injury |
-| **Year-Dream School 5th** | 2025 | Data Science Program |
-| **Clinical Excellence** | 2017-2025 | 8 Years as Surgeon |
-
-</div>
-
----
-
-## 🔬 Featured Projects
-
-<div align="center">
-
-  ### 🏥 Medical AI Projects
-  
-<a href="https://github.com/yeardreamMedical/medical-multimodal-rag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeardreamMedical&repo=medical-multimodal-rag&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/kimsol1134/dodakim-mind-quiz-page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimsol1134&repo=dodakim-mind-quiz-page&theme=tokyonight&hide_border=true" />
-</a>
-
-### 📊 Data Science Competitions
-
-<a href="https://github.com/kimsol1134/dacon-project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimsol1134&repo=dacon-project1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/kimsol1134/dacon-project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimsol1134&repo=dacon-project2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 📚 Latest Research & Publications
-
-### 📄 Published Papers
-- **[2020]** "[Pitfalls, Complications, and Necessity of Education about REBOA: A Single Regional Trauma Center Study](https://www.jtraumainj.org/journal/view.php?doi=10.20408/jti.2020.0049)" - *Journal of Trauma and Injury* (SCI, First Author)
-
-### 🎤 Conferences & Presentations
-- **[2025]** Year-Dream School Data Science Showcase - Team Project Leader
-
-
----
-
-## 🌱 Current Focus
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Medical Domain Knowledge] --> C[AI Solutions for Healthcare]
-    B[Data Science Skills] --> C
-    C --> D[Improved Patient Outcomes]
-    C --> E[Clinical Decision Support]
-    C --> F[Predictive Healthcare Models]
-```
-
-</div>
-
-### 🎯 2025 Goals
-- [ ] 🚀 Take the first successful step as a solo developer and founder.
-- [ ] 🩺 Launch 'Medicube', a project generating medical problems with images via a multimodal LLM.
-- [ ] 🤗 Build and gather user feedback for 'Dodakim', an AI-based mental health platform for fathers.
-
----
-
-## 💬 Let's Connect!
-
-<div align="center">
-
-I'm always interested in collaborating on projects that combine **medical expertise** with **data science** to create meaningful impact in healthcare.
-
-### 🤝 Open to:
-- Medical AI Research Collaborations
-- Healthcare Data Science Projects
-- Clinical Decision Support Systems
-- Medical Image Analysis Projects
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 Random Dev Quote
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
