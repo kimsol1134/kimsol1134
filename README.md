@@ -2,15 +2,15 @@
   
 # 👨‍⚕️💻 From Surgery to Data Science
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Surgeon+turned+Data+Scientist;8+Years+of+Clinical+Experience;Bridging+Medicine+and+AI;Saving+Lives+with+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pretendard&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Surgeon+turned+Data+Scientist;8+Years+of+Clinical+Experience;Bridging+Medicine+and+AI;Saving+Lives+with+Code)](https://git.io/typing-svg)
 
 <a href="https://solkim.blog">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sol%20Kim&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Where%20Medical%20Expertise%20Meets%20Data%20Science&descAlignY=55&descAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Sol%20Kim&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Where%20Medical%20Expertise%20Meets%20Data%20Science&descAlignY=55&descAlign=50&fontColor=FFFFFF" alt="header" />
 </a>
 
 <div align="center">
   
-  [![Blog](https://img.shields.io/badge/Blog-solkim.blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://solkim.blog)
+  [![Blog](https://img.shields.io/badge/Blog-solkim.blog-3B82F6?style=for-the-badge&logo=naver&logoColor=white)](https://solkim.blog)
   [![Email](https://img.shields.io/badge/Email-contact@solkim.blog-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@solkim.blog)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sol%20Kim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sol-kim-md-ds/)
   [![Threads](https://img.shields.io/badge/Threads-@home_dad_sol-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@home_dad_sol)
@@ -80,16 +80,22 @@ Currently, I am a **stay-at-home dad** to my daughter Yunseul, learning to code 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kimsol1134&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsol1134&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimsol1134&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=2c2c2c&icon_color=3b82f6"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimsol1134&layout=compact&langs_count=6&hide_border=true&bg_color=ffffff&title_color=000000&text_color=2c2c2c&icon_color=3b82f6"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kimsol1134&theme=tokyonight&hide_border=true" />
+  <img src="https://ghchart.rshah.org/10B981/kimsol1134" alt="kimsol1134's Github chart" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kimsol1134&bg_color=ffffff&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer&animation=twinkling" />
 </div>
