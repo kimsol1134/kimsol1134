@@ -1,101 +1,112 @@
 <div align="center">
-  
-# 👨‍⚕️💻 From Surgery to Data Science
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pretendard&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Surgeon+turned+Data+Scientist;8+Years+of+Clinical+Experience;Bridging+Medicine+and+AI;Saving+Lives+with+Code)](https://git.io/typing-svg)
 
 <a href="https://solkim.blog">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Sol%20Kim&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Where%20Medical%20Expertise%20Meets%20Data%20Science&descAlignY=55&descAlign=50&fontColor=FFFFFF" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Sol%20Kim&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Surgeon%20%E2%86%92%20Stay-at-Home%20Dad%20%E2%86%92%20App%20Store%20%231&descAlignY=55&descAlign=50&fontColor=FFFFFF" alt="header" />
 </a>
 
-<div align="center">
-  
-  [![Blog](https://img.shields.io/badge/Blog-solkim.blog-3B82F6?style=for-the-badge&logo=naver&logoColor=white)](https://solkim.blog)
-  [![Email](https://img.shields.io/badge/Email-contact@solkim.blog-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@solkim.blog)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sol%20Kim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sol-kim-md-ds/)
-  [![Threads](https://img.shields.io/badge/Threads-@home_dad_sol-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@home_dad_sol)
-  
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pretendard&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Zero+coding+experience;3+apps+on+the+App+Store;%231+in+Lifestyle+category;Now+writing+a+book+about+it)](https://git.io/typing-svg)
 
 </div>
 
-<br>
+## About
 
-## 🩺 About Me
+I spent **8 years as a surgeon**. After my daughter Yunseul was born, I hung up the white coat to be a full-time dad.
 
-> **"Transforming clinical insights into data-driven solutions"**
+With zero income and zero coding experience, I started building apps with AI while she was at daycare. Using **vibe coding** (AI-assisted development), I shipped **3 apps to the App Store** — and one of them hit **#1 in the Lifestyle category**.
 
-Hi, I'm **Sol Kim**. I spent **8 years as a surgeon**, handling critical cases and analyzing complex medical data in the OR. Now, I've traded my scalpel for Python to solve problems at scale with **AI and Data Science**.
+Now I'm writing a book about how I did it.
 
-Currently, I am a **stay-at-home dad** to my daughter Yunseul, learning to code during her naps, and building applications that help people.
-
-- 🔭 **I’m currently working on**: [KidsFever](https://kidsfever.xyz) (Antipyretic Dose Calculator) & Medical RAG systems.
-- 🌱 **I’m currently learning**: LLM Application Development, Next.js, and Advanced Data Engineering.
-- 🏥 **Clinical Expertise**: Trauma Surgery, Critical Care, Emergency Medicine.
+- **2026 Focus** &mdash; Writing a vibe coding book for Gilbut Publishers
+- **Award** &mdash; Minister's Prize for AI Talent (Ministry of SMEs and Startups)
+- **Education** &mdash; Meta Llama Academy &middot; Yeardream School (Data Scientist) &middot; Yonsei Univ. College of Medicine (MD)
 
 ---
 
-## 🛠️ Tech Stack
+## App Store &mdash; 3 Apps, Built with AI
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://apps.apple.com/us/app/pieceful-ai-baby-journal/id6756474655">
+        <img src="https://img.shields.io/badge/%231_Lifestyle-000000?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store #1" />
+      </a>
+      <br><br>
+      <strong>Pieceful</strong><br>
+      <sub>AI baby journal &mdash; record in 3 seconds from lock screen</sub><br>
+      <sub>Claude Code &middot; Antigravity</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://apps.apple.com/kr/app/%EB%B3%84%EB%A7%90-%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B8%B0-%EC%A0%84%EC%97%90-%EB%8B%B4%EB%8A%94-%EC%95%84%EC%9D%B4%EC%9D%98-%EB%A7%90/id6760273514">
+        <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" />
+      </a>
+      <br><br>
+      <strong>Byeolmal</strong><br>
+      <sub>Capture your child's voice &mdash; AI empathy responses</sub><br>
+      <sub>Claude Code &middot; Codex</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://apps.apple.com/us/app/%EC%9C%A0%EC%B9%98%EC%9B%90-%EC%95%8C%EB%A6%AC%EB%AF%B8-%EC%9A%B0%EB%A6%AC%EB%8F%99%EB%84%A4-%EC%9C%A0%EC%B9%98%EC%9B%90/id6758149645">
+        <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" />
+      </a>
+      <br><br>
+      <strong>Kindergarten Finder</strong><br>
+      <sub>Location-based kindergarten & daycare search</sub><br>
+      <sub>Claude Code</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Web
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **KidsFever** | Pediatric antipyretic dose calculator, based on clinical experience | [kidsfever.xyz](https://kidsfever.xyz) |
+| **Blog** | My journey from surgery to shipping apps with AI | [solkim.blog](https://solkim.blog) |
+
+---
+
+## Built With
 
 <div align="center">
 
-| **Category** | **Technologies** |
-| :---: | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| **Web Dev** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Data & AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured
 
-### 💊 [KidsFever (어린이 해열제 계산기)](https://kidsfever.xyz)
-> *A web application to help parents calculate the correct antipyretic dose for their children.*
-- **Problem**: Parents often struggle to calculate the correct dose of fever medication (Acetaminophen/Ibuprofen) for their kids.
-- **Solution**: A simple, mobile-friendly calculator that considers weight, age, and medication type.
-- **Tech**: Next.js, TypeScript, Tailwind CSS.
-
-### 📝 [SolKim Blog](https://solkim.blog)
-> *My personal tech blog and journey log.*
-- **Content**: Documentation of my transition from medicine to tech, coding tutorials, and project retrospectives.
-- **Tech**: Next.js 14, Contentlayer, MDX.
+- [**"From parenting to vibe coding to App Store #1"**](https://yozm.wishket.com/magazine/detail/3613/) &mdash; yozm (Wishket) interview
+- **Book in progress** &mdash; *Vibe Coding: From Claude Code to the App Store* (Gilbut Publishers, 2026)
 
 ---
 
-## ✍️ Latest Blog Posts
+## GitHub Stats
 
-<!-- blog_posts_start -->
-- [💊 아이 해열제 계산기 개발기 (Antipyretic Dose Calculator)](https://solkim.blog/projects/antipyretic-dose-calculator)
-- [♟️ Knight's Tour Game 개발기](https://solkim.blog/projects/knights-tour-game)
-- [🛠️ Mac에서 NVM 경로 문제 해결하기](https://solkim.blog/blog/fix-macos-nvm-path-issue-gui-apps)
-<!-- blog_posts_end -->
-
-➡️ [Read more on my blog](https://solkim.blog)
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimsol1134&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimsol1134&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</div>
 
 ---
 
-## 📈 GitHub Analytics
-
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimsol1134&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=2c2c2c&icon_color=3b82f6"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimsol1134&layout=compact&langs_count=6&hide_border=true&bg_color=ffffff&title_color=000000&text_color=2c2c2c&icon_color=3b82f6"/>
+
+[![Blog](https://img.shields.io/badge/Blog-solkim.blog-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://solkim.blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sol_Kim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sol-kim-md-ds/)
+[![Threads](https://img.shields.io/badge/Threads-@home__dad__sol-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@home_dad_sol)
+
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/10B981/kimsol1134" alt="kimsol1134's Github chart" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kimsol1134&bg_color=ffffff&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
 </div>
