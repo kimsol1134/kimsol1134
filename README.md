@@ -36,7 +36,7 @@
 <br>
 **Press** &mdash; [yozm &mdash; "From parenting to vibe coding to App Store #1"](https://yozm.wishket.com/magazine/detail/3613/)
 <br>
-**Education** &mdash; Medical Doctor &middot; Meta Llama Academy &middot; Yeardream School
+**Education** &mdash; Board-Certified Surgeon (MD) &middot; Meta Llama Academy &middot; Yeardream School
 
 </div>
 
